@@ -5,6 +5,6 @@ ferramenta Weka (http://www.cs.waikato.ac.nz/ml/weka/). Pode também ser usado u
 de dados do pacote sklearn.datasets, desde que apropriado para o tipo de tarefa, exceto os conjunto Iris
 e Linnerrud.
 
-##Integrantes do grupo:
+## Integrantes do grupo:
 - Bruno Leonel, 770214
 - Júlia Almeida, 772116
